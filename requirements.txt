@@ -1,0 +1,15 @@
+langchain
+langchain-openai
+langchain-community
+langgraph
+sqlparse
+pandas
+pymysql
+sqlalchemy
+python-dotenv
+transformers
+torch
+chromadb
+sentence-transformers
+bitsandbytes
+accelerate
